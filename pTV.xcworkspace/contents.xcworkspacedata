@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ipTV-osx/ipTV-osx.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ipTV-osx/Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:pTV.xcodeproj">
    </FileRef>
    <FileRef
