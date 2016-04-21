@@ -1,13 +1,22 @@
-# ipTV
-Sample IPTV streaming app for iOS (universal target).  
+# ipTV - ita
+Simple IPTV streaming app for **iOS** (universal target) and **Mac OSX**.  
 Based on a googled (non pay-tv) italian channel list.
 
+
+##iOS
 ###Channel list
 ![Chat](ss1.png)
 ![Chat](ss2.png)
   
 ###Live streaming
 ![Chat](ss3.png)
+
+##OSx
+###Channel list
+![Chat](ss4.png)
+![Chat](ss5.png)
+
+In **OSX** the player is *QuickTime*.
 
 ---
 
@@ -35,9 +44,10 @@ Based on a googled (non pay-tv) italian channel list.
 ---
 
 ###TODO
-- Remove broken links from table (swipe cell)
+- Remove broken links from table (swipe cell).
+- Integrate a native player in the OSX app.
 
-###Known bugs
+###Known issues
 - Nothing interesting. It's a one shot project.
 
 ---
